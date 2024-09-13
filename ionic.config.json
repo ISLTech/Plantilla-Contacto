@@ -1,0 +1,7 @@
+{
+  "name": "Plantilla-Contacto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
